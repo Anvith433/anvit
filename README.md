@@ -1,1 +1,3 @@
 # anvit
+
+readme is updated
